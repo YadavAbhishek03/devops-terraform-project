@@ -1,2 +1,2 @@
 # terraform-for-devops
-IoS
+IaS
